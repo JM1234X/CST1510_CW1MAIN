@@ -1,0 +1,6 @@
+ SRC=10.0.0.5,ATTEMPTS=12,RESULT=FAILED
+src=10.0.0.6, attempts=2, result=success
+ Src=10.0.0.7 , ATTEMPTS=5 , RESULT=failed
+src=10.0.0.8,attempts=1,result=SUCCESS
+SRC=10.0.0.9, ATTEMPTS=9, RESULT=FAILED
+src=10.0.0.10, attempts=unknown, result=failed

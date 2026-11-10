@@ -1,0 +1,8 @@
+student_id,category,score,answered,result
+S001,A,72,1,Pass
+S003,B,88,1,Pass
+S004,B,65,1,Pass
+S005,A,91,1,Pass
+S007,C,54,1,Fail
+S008,B,77,1,Pass
+S010,C,69,1,Pass
